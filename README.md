@@ -30,9 +30,8 @@ Let your tests determine what functionality your library will have*
 **GITHUB API:**
 
 The documentation is based on the examples for curl. I had to translate it into java script 
-
-thisdocumentaction helped: [DOCUMENTACTION](https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html  helped: https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html) helped
-
+this [DOCUMENTACTION](https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html) helped :blush:
+ 
 
 
 Thanks to GITHUB API, we can, for example:
@@ -71,8 +70,6 @@ My next small project from JS basics  :arrow_right: :arrow_right: :arrow_righ
 :computer: TECHNOLOGIES : Java Script, GithubAPI, Webpack,  JEST
 
 ----
-
-
 
 
 
