@@ -13,7 +13,7 @@ i.e. a library that would facilitate the use of available solutions.*
 <h3>What did I use in the project? What have I learned?</h3>
 
 * What is [GITHUB API](https://docs.github.com/en/rest)
-* I found out what a personal token I could use.  [Personal Token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
+* I found out what a [Personal Token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) I could use. 
 * What is the TDD methodology, i.e. red-green-refactor 
 * I learned here how to write unit tests
 
