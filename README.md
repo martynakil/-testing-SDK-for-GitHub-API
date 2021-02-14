@@ -31,7 +31,7 @@ Let your tests determine what functionality your library will have*
 
 The documentation is based on the examples for curl. I had to translate it into java script 
 
-this [DOCUMENTACTION](https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html  helped: https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html) helped
+thisdocumentaction helped: [DOCUMENTACTION](https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html  helped: https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html) helped
 
 
 
@@ -49,7 +49,7 @@ Thanks to GITHUB API, we can, for example:
 
 
 
-**(This is what I used in my project and the tests passed:white_check_mark:)**
+**(This is what I used in my project and the tests passed :white_check_mark: )**
 
 -----
 
