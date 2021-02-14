@@ -25,6 +25,7 @@ Only then do you write the implementation.
 Let your tests determine what functionality your library will have*
 
 
+----
 
 **GITHUB API: 
 
@@ -36,21 +37,22 @@ this [DOCUMENTACTION](https://idratherbewriting.com/learnapidoc/docapis_understa
 
 Thanks to GITHUB API, we can, for example:
 
-🔷 :large_blue_diamond: download user information 
+🔷  download user information 
 
-🔷 :large_blue_diamond: download information about repositories 
+🔷  download information about repositories 
 
-🔷 :large_blue_diamond: get information about commits in the repository 
+🔷  get information about commits in the repository 
 
-🔷 :large_blue_diamond: download information about commit comments 
+🔷  download information about commit comments 
 
-🔷 :large_blue_diamond: download information about errors in the repository 
+🔷  download information about errors in the repository 
 
 
 
-(This is what I used in my project and the tests passed:white_check_mark:)
+**(This is what I used in my project and the tests passed:white_check_mark:)
 
 -----
+
 <h3>How to open a file? :eyes: </h3>
 
 * On the right side you will find the "clone or download" button - click it.
