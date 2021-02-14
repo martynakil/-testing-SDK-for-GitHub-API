@@ -27,7 +27,7 @@ Let your tests determine what functionality your library will have*
 
 ----
 
-**GITHUB API: 
+**GITHUB API:**
 
 The documentation is based on the examples for curl. I had to translate it into java script 
 
@@ -49,7 +49,7 @@ Thanks to GITHUB API, we can, for example:
 
 
 
-**(This is what I used in my project and the tests passed:white_check_mark:)
+**(This is what I used in my project and the tests passed:white_check_mark:)**
 
 -----
 
