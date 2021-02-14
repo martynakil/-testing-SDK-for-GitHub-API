@@ -17,30 +17,38 @@ i.e. a library that would facilitate the use of available solutions.*
 * What is the TDD methodology, i.e. red-green-refactor 
 * I learned here how to write unit tests
 
+
+
 *TDD methodology, i.e. red-green-refactor.
 First, you write tests that you have to configure yourself.
 Only then do you write the implementation.
 Let your tests determine what functionality your library will have*
 
-*GITHUB API: 
+
+
+**GITHUB API: 
+
 The documentation is based on the examples for curl. I had to translate it into java script 
 
-(this [DOCUMENTACTION](https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html  helped: https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html) helped)
+this [DOCUMENTACTION](https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html  helped: https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html) helped
 
 
 
 Thanks to GITHUB API, we can, for example:
-* download user information 
 
-* download information about repositories 
+🔷 :large_blue_diamond: download user information 
 
-* get information about commits in the repository 
+🔷 :large_blue_diamond: download information about repositories 
 
-* download information about commit comments 
+🔷 :large_blue_diamond: get information about commits in the repository 
 
-* download information about errors in the repository 
+🔷 :large_blue_diamond: download information about commit comments 
 
-(This is what I used in my project and the tests passed)
+🔷 :large_blue_diamond: download information about errors in the repository 
+
+
+
+(This is what I used in my project and the tests passed:white_check_mark:)
 
 -----
 <h3>How to open a file? :eyes: </h3>
