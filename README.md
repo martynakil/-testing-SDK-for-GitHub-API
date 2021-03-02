@@ -63,7 +63,7 @@ Thanks to GITHUB API, we can, for example:
 
 ----
 
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/-form---uploading-a-CSV-file-in-JS)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/currency-wallet-redux-)
 
 ----
 
